@@ -1,2 +1,2 @@
 # hello-world
-begin
+A game server.
